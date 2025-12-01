@@ -1,5 +1,11 @@
 # React + Vite
 
+# UI
+![alt text](<Screenshot 2025-12-01 174625.png>)
+
+# Searching Filter with gemeni AI
+![alt text](<Screenshot 2025-12-01 174651.png>)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
